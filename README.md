@@ -1,4 +1,4 @@
 # about
 information impotent
 
-["https://help.github.com/en/articles/basic-writing-and-formatting-syntax"](")
+[basic-writing-and-formatting-syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
