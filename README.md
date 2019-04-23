@@ -1,2 +1,2 @@
 # about
-impotent information
+information impotent
